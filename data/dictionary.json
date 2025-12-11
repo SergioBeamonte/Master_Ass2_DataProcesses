@@ -125,7 +125,7 @@
     },
     "description": "Self-rated general health. 1 = excellent, 2 = very good, 3 = good, 4 = fair, 5 = poor"
   },
-  "MentHlth": {
+  "MentalHealth": {
     "type": "numerical",
     "map": {},
     "description": "Number of days in past 30 days mental health was not good (1–30)"
